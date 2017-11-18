@@ -1,0 +1,9 @@
+Building TIGERCOIN
+
+See doc/readme-qt.rst for instructions on building TIGERCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TIGERCOIN.
+
+See doc/build-*.txt for instructions on building tigercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TIGERCOIN.
