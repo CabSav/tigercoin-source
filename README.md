@@ -15,3 +15,5 @@ Having events and airdrops to attract more people
 Grow the community
 
 Getting the coin finally ongoing upwards
+
+Join our community: http://discord.gg/5WYPM6r
